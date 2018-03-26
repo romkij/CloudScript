@@ -1,8 +1,10 @@
 .vs/
 bin/
 obj/
+node_modules/
 
 .ntvs_analysis.dat
 *.js
 *.map
 *.user
+package-lock.json
